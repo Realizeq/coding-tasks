@@ -1,0 +1,15 @@
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\bin\Debug\net8.0\0033.exe
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\bin\Debug\net8.0\0033.deps.json
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\bin\Debug\net8.0\0033.runtimeconfig.json
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\bin\Debug\net8.0\0033.dll
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\bin\Debug\net8.0\0033.pdb
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.AssemblyInfoInputs.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.AssemblyInfo.cs
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.csproj.CoreCompileInputs.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.sourcelink.json
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.dll
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\refint\0033.dll
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.pdb
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\0033.genruntimeconfig.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\0033\obj\Debug\net8.0\ref\0033.dll
