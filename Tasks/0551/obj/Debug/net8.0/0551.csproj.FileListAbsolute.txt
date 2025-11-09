@@ -1,0 +1,5 @@
+D:\Main\RepositoryC#\coding_tasks\Tasks\0551\obj\Debug\net8.0\0551.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\RepositoryC#\coding_tasks\Tasks\0551\obj\Debug\net8.0\0551.AssemblyInfoInputs.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\0551\obj\Debug\net8.0\0551.AssemblyInfo.cs
+D:\Main\RepositoryC#\coding_tasks\Tasks\0551\obj\Debug\net8.0\0551.csproj.CoreCompileInputs.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\0551\obj\Debug\net8.0\0551.sourcelink.json
