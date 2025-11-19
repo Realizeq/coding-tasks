@@ -1,7 +1,7 @@
 # Решение 1400 задач на C#
 
 ## Статистика
-- **Решено**: 775/1400
+- **Решено**: 800/1400
 
 ## [Tasks](https://github.com/Realizeq/coding-tasks/tree/main/Tasks) - решённые задачи
 
