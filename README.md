@@ -3,7 +3,7 @@
 ## Статистика
 - **Решено**: 1000/1400
 
-## [Tasks](https://github.com/Realizeq/coding-tasks/tree/main/Tasks) - решённые задачи
+## [Tasks](https://github.com/Realizeq/coding-tasks/tree/main/Tasks), [Tasks2](https://github.com/Realizeq/coding-tasks/tree/main/Tasks2) - решённые задачи
 
 ## Как искать задачи
 - Задачи нумеруются по принципу и идут по порядку: `0001`, `0010`, `0100`, `1400` 
