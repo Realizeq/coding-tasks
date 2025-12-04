@@ -1,9 +1,9 @@
 # Решение 1400 задач на C#
 
 ## Статистика
-- **Решено**: 1000/1400
+- **Решено**: 1030/1400
 
-## [Tasks](https://github.com/Realizeq/coding-tasks/tree/main/Tasks), [Tasks2](https://github.com/Realizeq/coding-tasks/tree/main/Tasks2) - решённые задачи
+## [1-1001](https://github.com/Realizeq/coding-tasks/tree/main/Tasks), [1002-1400](https://github.com/Realizeq/coding-tasks/tree/main/Tasks2) - решённые задачи
 
 ## Как искать задачи
 - Задачи нумеруются по принципу и идут по порядку: `0001`, `0010`, `0100`, `1400` 
