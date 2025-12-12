@@ -1,0 +1,15 @@
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\bin\Debug\net8.0\1088.exe
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\bin\Debug\net8.0\1088.deps.json
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\bin\Debug\net8.0\1088.runtimeconfig.json
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\bin\Debug\net8.0\1088.dll
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\bin\Debug\net8.0\1088.pdb
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.AssemblyInfoInputs.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.AssemblyInfo.cs
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.csproj.CoreCompileInputs.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.sourcelink.json
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.dll
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\refint\1088.dll
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.pdb
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\1088.genruntimeconfig.cache
+D:\Main\RepositoryC#\coding_tasks\Tasks\1088\obj\Debug\net8.0\ref\1088.dll
