@@ -1,7 +1,7 @@
 # Решение 1400 задач на C#
 
 ## РЕШЕННЫЕ ЗАДАЧИ
-- **Решено**: 1325/1400
+- **Решено**: 1350/1400
 
 ## [1-1001](https://github.com/Realizeq/coding-tasks/tree/main/Tasks), [1002-1400](https://github.com/Realizeq/coding-tasks/tree/main/Tasks2)
 
